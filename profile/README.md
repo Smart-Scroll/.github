@@ -1,6 +1,5 @@
 # 🖱️ Smart Scroll — Advanced Scrolling Control for macOS
 
-![Smart Scroll Logo](https://static.macupdate.com/products/13043/m/smart-scroll-logo.png?v=1631197497)
 
 <p align="center">
   <a href="https://smart-scroll.macupdate.com/">
