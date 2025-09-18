@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="http://smart-scroll.github.io/.github">
-    <img src="http://smart-scroll.github.io/.github" alt="Smart Scroll" width="160"><br>
     <strong>⬇️ Download Smart Scroll for macOS</strong>
   </a>
 </p>
